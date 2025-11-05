@@ -1,25 +1,19 @@
-### 🚀 Web Application Project
+## 🌐 My Backend
 
-This project is divided into 2 parts
-1. Backend API Server – built with Node.js + Express
-2. Frontend Web App – built with React + Vite
+A simple RESTful API built with **Node.js + Express**,  
+designed for managing drone configurations and temperature logs.
 
-### ✅ How to Run the Whole Project
+## 🚀 Getting Started
 
-**1. Start Backend**  
-
+1. Install dependencies
+   
 cd backend
 
-npm run dev
+npm install
 
-It will run on http://localhost:4000
-
-**2. Start Frontend**
-
-cd frontend
+2. Run the development server
 
 npm run dev
 
-Then open http://localhost:5173
-
-The frontend will fetch data from backend automatically
+*You can see my render at
+👉 [http://localhost:3000](https://webapp-backend-pawf.onrender.com)*
