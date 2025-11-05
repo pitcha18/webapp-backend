@@ -6,8 +6,6 @@ designed for managing drone configurations and temperature logs.
 ## 🚀 Getting Started
 
 1. Install dependencies
-   
-cd backend
 
 npm install
 
